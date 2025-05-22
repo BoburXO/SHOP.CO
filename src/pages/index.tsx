@@ -1,4 +1,5 @@
 import Comments from '@/components/Comments/Comments';
+import Form from '@/components/Form/Form';
 import Header from '@/components/Header/Header';
 import Logos from '@/components/Logos/Logos';
 import Head from 'next/head';
@@ -15,6 +16,7 @@ export default function Home() {
       <Header />
       <Logos />
       <Comments />
+      <Form/>
     </>
   );
 }
