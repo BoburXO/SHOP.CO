@@ -35,4 +35,13 @@ export const comments = [
     rating: 3,
     github: 'https://github.com/samarbadriddin0v',
   },
+  {
+    id: 5,
+    username: 'Husniddin',
+    comment:
+      "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations.",
+    photo: 'https://images-cdn.ubuy.co.in/65372d0b5c1c3c4e916aac9c-upgraded-telephone-corded-phone-dual.jpg',
+    rating: 5,
+    github: 'https://github.com/Husiniddin',
+  },
 ];
