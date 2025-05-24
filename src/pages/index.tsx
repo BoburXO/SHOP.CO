@@ -2,6 +2,7 @@ import Comments from '@/components/Comments/Comments';
 import Form from '@/components/Form/Form';
 import Header from '@/components/Header/Header';
 import Logos from '@/components/Logos/Logos';
+import Section from '@/components/Section/Section'
 import Head from 'next/head';
 
 export default function Home() {
@@ -15,7 +16,9 @@ export default function Home() {
       </Head>
       <Header />
       <Logos />
+      <Section/>
       <Comments />
+
       <Form/>
     </>
   );
